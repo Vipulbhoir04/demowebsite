@@ -137,7 +137,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             echo '<p class="message error">' . $error_message . '</p>';
         }
         ?>
-        <a class="back-to-home" href="home.php">Back to Home</a>
+        <a class="back-to-home" href="index.php">Login Page</a>
     </div>
 </body>
 </html>
